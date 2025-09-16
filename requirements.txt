@@ -9,3 +9,4 @@ scikeras
 ipykernel
 nltk
 wikipedia
+langchain-text-splitters
